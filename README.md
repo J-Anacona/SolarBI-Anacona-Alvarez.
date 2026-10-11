@@ -10,5 +10,3 @@ Curso y grupo: Inteligencia de Negocios BI · Grupo ----
 Se construyo base de datos en PostgreSQL y tableros en Power BI y Grafana
 
 
-Quien hizo que----- falta colocar 
-
