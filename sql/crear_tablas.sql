@@ -1,6 +1,5 @@
 -- SolarBI Pascual - Creacion de esquemas y tablas en PostgreSQL
 -- Base de datos: SolarBI
--- Se ejecuta una sola vez (es seguro repetirlo: usa IF NOT EXISTS).
 
 CREATE SCHEMA IF NOT EXISTS silver;
 CREATE SCHEMA IF NOT EXISTS dwh;
